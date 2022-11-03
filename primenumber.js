@@ -1,4 +1,4 @@
-let number=13;
+let number=10;
  let factor=0;
 for(let i=0;i<=num;i++){
 if(num%i==0){
